@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+*.iml
+
+target/
+*/target/
+
+*/data/
+*.mv.db
+*.trace.db
+
+*.log
+hs_err_pid*
